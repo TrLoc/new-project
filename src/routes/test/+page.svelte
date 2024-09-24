@@ -10,9 +10,7 @@
         TableSource,
     } from "@skeletonlabs/skeleton";
     import { Avatar } from "@skeletonlabs/skeleton";
-    import { TabGroup, Tab, TabAnchor } from "@skeletonlabs/skeleton";
-    import { Autocomplete } from "@skeletonlabs/skeleton";
-    import type { AutocompleteOption } from "@skeletonlabs/skeleton";
+    import { TabGroup, Tab } from "@skeletonlabs/skeleton";
     import { Paginator } from "@skeletonlabs/skeleton";
     import { popup } from "@skeletonlabs/skeleton";
     import type { PopupSettings } from "@skeletonlabs/skeleton";

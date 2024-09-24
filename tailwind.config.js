@@ -14,7 +14,11 @@ const config = {
     )
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+
+      },
+    },
   },
   plugins: [
     skeleton
